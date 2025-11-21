@@ -20,7 +20,7 @@
 
 
 ```
-I build things, break things, fix things — usually in that order.
+I build things, break things, fix things.
 ```
 
 
