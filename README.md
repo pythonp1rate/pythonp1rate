@@ -50,7 +50,7 @@ breaking things, ricing stuff.
 
 Reach Me On:
 
-- github 
+ github 
 
 
 <a href="https://www.linkedin.com/in/madeleinemannerfelt/" target="_blank">
