@@ -15,7 +15,7 @@
 ⠀⠀⠀⠀⠀⠉⠀⠀⠀⠙⢿⣳⠞⠳⡄⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠹⣄⣀⡤⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 
- > **Free Software, Free People.**
+ > *Free Software, Free People.*
 
 
 
@@ -24,26 +24,40 @@ I build things, break things, fix things.
 ```
 
 
-
+**Tech stack**
 ```
-Tech stack
 - Arch Linux
 - Hyprland
+- Fish Shell
 - Kitty
 ```
 
-
+**Languages**
 ```
-Languages  
 - Python
-- Shell
+- Bash
 - Lua
 - Postgresql
-- css only when i have to.
 ```
 
-
+**Web**
 ```
-Currently
+- HTML
+- CSS
+- PostgreSQL
+```
+
+**Tools**
+```
+- Lazyvim
+- Git
+- Vscode
+- Pycharm
+- SSH/Local Hosting
+- AWS
+```
+
+**Currently**
+```
 breaking things, ricing stuff.
 ```
