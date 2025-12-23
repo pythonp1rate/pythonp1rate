@@ -40,7 +40,7 @@ I build things, break things, fix things.
 - Postgresql
 ```
 
-**Web**
+**WEB**
 ```
 - HTML
 - CSS
