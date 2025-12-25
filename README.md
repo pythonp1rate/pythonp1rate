@@ -16,7 +16,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠹⣄⣀⡤⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 
 ```
-- AI/OSS Developer
+- AI | OSS Developer
 - Arch Linux Testing Team
 ```
 
