@@ -15,14 +15,10 @@
 ⠀⠀⠀⠀⠀⠉⠀⠀⠀⠙⢿⣳⠞⠳⡄⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠹⣄⣀⡤⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 
- > *Free Software, Free People.*
-
-
-
 ```
-I build things, break things, fix things.
+- AI/OSS Developer
+- Arch Linux Testing Team
 ```
-
 
 **Tech stack**
 ```
@@ -37,7 +33,7 @@ I build things, break things, fix things.
 - Python
 - Bash
 - Lua
-- Postgresql
+- Shell
 ```
 
 **WEB**
@@ -52,12 +48,6 @@ I build things, break things, fix things.
 - Lazyvim
 - Git
 - Vscode
-- Pycharm
 - SSH/Local Hosting
-- AWS
 ```
-
-**Currently**
-```
-breaking things, ricing stuff.
-```
+ > *Free Software, Free People.*
