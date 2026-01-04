@@ -41,7 +41,6 @@
 - HTML
 - CSS
 - PostgreSQL
-- JavaScript
 ```
 
 **Tools**
