@@ -47,7 +47,7 @@
 ```
 - Lazyvim
 - Git
-- Vscode
+- Cursor
 - SSH/Local Hosting
 ```
  > *Free Software, Free People.*
