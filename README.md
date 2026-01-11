@@ -1,7 +1,5 @@
-```
-- AI Developer | OSS Developer
-- Arch Linux Testing Team
-```
+ > *AI Developer | OSS Developer*
+
 
 **Tech stack**
 ```
