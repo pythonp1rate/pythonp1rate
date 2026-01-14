@@ -30,5 +30,8 @@
 - Git
 - Cursor
 - SSH/Local Hosting
+- AWS
+- Docker
+- Obsidiand
 ```
  > *Free Software, Free People.*
