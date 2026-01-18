@@ -33,6 +33,6 @@
 - SSH/Local Hosting
 - AWS
 - Docker
-- Obsidiand
+- Obsidian
 ```
  > *Free Software, Free People.*
