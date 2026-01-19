@@ -23,6 +23,8 @@
 - CSS
 - PostgreSQL
 - JavaScript
+- React
+- TypeScript
 ```
 
 **Tools**
