@@ -12,9 +12,8 @@
 **Languages**
 ```
 - Python
-- Bash
+- Shell Scripting (bash, fish, zsh)
 - Lua
-- Shell
 ```
 
 **WEB**
