@@ -1,4 +1,4 @@
- > *AI Developer | Arch Linux Testing Team*
+ > *AI Engineer | Arch Linux Testing Team*
 
 
 **Tech stack**
