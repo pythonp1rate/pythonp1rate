@@ -25,6 +25,7 @@
 - SHAP
 - NumPy / Pandas
 - Ollama
+- Google Gemini
 - ChromaDB
 - Hugging Face
 - Jupyter Notebooks
