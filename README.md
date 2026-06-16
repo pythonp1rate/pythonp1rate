@@ -16,8 +16,23 @@
 - Lua
 ```
 
+**AI/ML**
+```
+- PyTorch
+- fastai
+- scikit-learn
+- XGBoost / LightGBM
+- SHAP
+- NumPy / Pandas
+- Ollama
+- ChromaDB
+- Hugging Face
+- Jupyter Notebooks
+```
+
 **WEB**
 ```
+- FastAPI
 - HTML
 - CSS
 - PostgreSQL
@@ -35,6 +50,7 @@
 - AWS
 - Docker
 - Obsidian
+- Streamlit
 ```
 
 <p align="center">
